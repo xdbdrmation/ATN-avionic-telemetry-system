@@ -27,11 +27,16 @@ So there are the main components used here, i didnt mention a few as they are no
 
 ### Main Schematic:
 
-<img width="1163" height="710" alt="Screenshot 2026-04-11 195243" src="https://github.com/user-attachments/assets/d14fbba7-44b2-414f-93a6-6122b326e6a2" />
+<img width="1263" height="780" alt="Screenshot 2026-04-20 225640" src="https://github.com/user-attachments/assets/2a769ed0-9d64-4e3c-b009-bcf139a66251" />
+
 
 ### The Main PCB routed:
 
-<img width="872" height="483" alt="Screenshot 2026-04-04 195052" src="https://github.com/user-attachments/assets/24c784b8-78dd-455b-8c61-33a81ab57377" />
+<img width="980" height="558" alt="Screenshot 2026-04-20 234325" src="https://github.com/user-attachments/assets/1b094adf-ce1f-40d1-b3d9-ec886aa0cefa" />
+
+### 3d MODEL: 
+
+<img width="1150" height="691" alt="Screenshot 2026-04-20 233552" src="https://github.com/user-attachments/assets/2062eefb-a4b8-4324-a336-7d22f6d10033" />
 
 
 ## The AVIONIC BAY:
